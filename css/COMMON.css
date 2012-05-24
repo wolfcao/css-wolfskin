@@ -1,0 +1,38 @@
+*{
+	padding:0;
+	margin:0;
+}
+body,div,p,span,ul,ol,li,dl,dt,dd,em,strong,pre,table,th,tr,td,input,label,option,h1,h2,h3,h4,h5,h6,h7,h8,h9,textarea,button,header,footer,nav,aside,article,section{
+	color:#333;
+	font-family:'arial';
+	font-size:13px;
+	font-weight:normal;
+	font-style:normal;
+	line-height:18px;
+}
+a{
+	color:#ff6600;
+	text-decoration:none;
+}
+a:hover{
+	color:#ff6633;
+	text-decoration:underline;
+}
+a:link{
+	color:#ff6600;
+	text-decoration:none;
+}
+a:visited{
+	color:#ff6600;
+	text-decoration:none;
+}
+ul,ol,li{
+	list-style-type:none;
+}
+img{
+	border:none;
+}
+table{
+	border-collapse:collapse;
+	border-spacing:0;
+}
